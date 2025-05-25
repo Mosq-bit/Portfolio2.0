@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 contacts: {
                     "Email": "mailto:naijek@gmail.com",
                     "GitHub": "https://github.com/Mosq-bit",
-                    "LinkedIn": "https://linkedin.com/in/yourprofile",
+                    "LinkedIn": "https://linkedin.com/in/алексей-ващилин-4891b1358/",
                     "Телефон": "tel:+79265452477"
                 }
             };
