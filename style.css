@@ -227,12 +227,13 @@
 
         .skills-container {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
             gap: 15px;
             margin-top: 15px;
         }
 
         .skill-category {
+        
             background-color: #252540;
             padding: 15px;
             border-radius: 6px;
