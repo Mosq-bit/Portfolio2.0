@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Портфолио | Алексей Ващилин</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="terminal">
+        <div class="terminal-header">
+            <div class="terminal-buttons">
+                <span class="close"></span>
+                <span class="minimize"></span>
+                <span class="maximize"></span>
+            </div>
+            <div class="terminal-title">AI Портфолио — Алексея Ващилина</div>
+        </div>
+        <div class="terminal-body" id="terminal">
+            <div class="message ai-message">
+                <div class="message-header">
+                    <span class="message-sender">AI Ассистент</span>
+                    <span class="message-time" id="current-time"></span>
+                </div>
+                <div class="message-content">
+                    Привет! Я — ваш AI-гид по портфолио Алексея Ващилина.<br>
+                    Введите <span class="command">/help</span> для списка команд или просто задайте вопрос.
+                </div>
+            </div>
+        </div>
+        <div class="terminal-input">
+            <span class="prompt">></span>
+            <input type="text" id="command-input" autofocus placeholder="Введите команду...">
+        </div>
+    </div>
+
+    <!-- Шаблоны для сообщений -->
+    <template id="ai-message-template">
+        <div class="message ai-message">
+            <div class="message-header">
+                <span class="message-sender">AI Ассистент</span>
+                <span class="message-time"></span>
+            </div>
+            <div class="message-content"></div>
+        </div>
+    </template>
+
+    <template id="user-message-template">
+        <div class="message user-message">
+            <div class="message-header">
+                <span class="message-sender">Вы</span>
+                <span class="message-time"></span>
+            </div>
+            <div class="message-content"></div>
+        </div>
+    </template>
+
+    <!-- Шаблон для проектов -->
+    <template id="project-template">
+        <div class="project">
+            <div class="project-header">
+                <h3 class="project-title"></h3>
+                <span class="project-year"></span>
+            </div>
+            <div class="project-description"></div>
+            <div class="project-tags"></div>
+            <a class="project-link" href="#" target="_blank">Посмотреть проект →</a>
+        </div>
+    </template>
+
+    <script src="script.js"></script>
+</body>
+</html>
