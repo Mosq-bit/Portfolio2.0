@@ -20,14 +20,14 @@ document.addEventListener('DOMContentLoaded', function() {
                 projects: [
                     {
                         title: "Проект Lorem",
-                        year: "2023",
+                        year: "2024",
                         description: "Адаптивный лендинг для IT-компании. Реализована анимация элементов, валидация формы, адаптивная верстка.",
                         tags: ["HTML", "CSS", "JavaScript", "Figma"],
                         link: "https://mosq-bit.github.io/Project_LOREM/"
                     },
                     {
                         title: "Проект Шаблон",
-                        year: "2023",
+                        year: "2024",
                         description: "Универсальный шаблон сайта с настраиваемыми компонентами. Использованы CSS Grid и Flexbox.",
                         tags: ["HTML", "CSS", "JavaScript", "Figma"],
                         link: "https://mosq-bit.github.io/Test-project/"
