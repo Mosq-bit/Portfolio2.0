@@ -94,7 +94,14 @@ document.addEventListener('DOMContentLoaded', function() {
                         description: "Сайт организации праздника.",
                         tags: ["HTML", "CSS", "JavaScript", "Figma"],
                         link: "mosq-bit.github.io/EasyFest/"
-                    }
+                    },
+                            {
+                        title: "Проект Art",
+                        year: "2025",
+                        description: "Сайт надувных шаров.",
+                        tags: ["HTML", "CSS", "JavaScript", "Figma"],
+                        link: "mosq-bit.github.io/Art/"
+                    } 
                 ],
                 skills: {
                     "Технические": ["JavaScript", "HTML/CSS", "React", "Node.js", "Git"],
