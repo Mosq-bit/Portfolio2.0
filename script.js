@@ -87,6 +87,13 @@ document.addEventListener('DOMContentLoaded', function() {
                         description: "Сайт автосервиса с системой записи и калькулятором услуг.",
                         tags: ["HTML", "CSS", "JavaScript", "Figma"],
                         link: "https://mosq-bit.github.io/Velocity/"
+                    },
+                             {
+                        title: "Проект EasyFest",
+                        year: "2025",
+                        description: "Сайт организации праздника.",
+                        tags: ["HTML", "CSS", "JavaScript", "Figma"],
+                        link: "mosq-bit.github.io/EasyFest/"
                     }
                 ],
                 skills: {
