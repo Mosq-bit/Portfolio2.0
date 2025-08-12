@@ -101,7 +101,15 @@ document.addEventListener('DOMContentLoaded', function() {
                         description: "Сайт надувных шаров.",
                         tags: ["HTML", "CSS", "JavaScript", "Figma"],
                         link: "https://mosq-bit.github.io/Art/"
-                    } 
+                    },
+                             {
+                        title: "Проект Surfing School",
+                        year: "2025",
+                        description: "Сайт Школы Серфинга.",
+                        tags: ["HTML", "CSS", "JavaScript", "Figma"],
+                        link: "https://mosq-bit.github.io/Surfing-School/"
+                    },
+                            
                 ],
                 skills: {
                     "Технические": ["JavaScript", "HTML/CSS", "React", "Node.js", "Git"],
@@ -310,3 +318,4 @@ document.addEventListener('DOMContentLoaded', function() {
             // Автофокус на поле ввода при загрузке
             commandInput.focus();
         });
+
