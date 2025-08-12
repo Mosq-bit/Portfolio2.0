@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         year: "2025",
                         description: "Сайт Школы Серфинга.",
                         tags: ["HTML", "CSS", "JavaScript", "Figma"],
-                        link: "https://mosq-bit.github.io/Surfing-School/"
+                        link: "https://mosq-bit.github.io/Serfing-School/"
                     }
                             
                 ],
@@ -318,5 +318,6 @@ document.addEventListener('DOMContentLoaded', function() {
             // Автофокус на поле ввода при загрузке
             commandInput.focus();
         });
+
 
 
