@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         description: "Сайт Школы Серфинга.",
                         tags: ["HTML", "CSS", "JavaScript", "Figma"],
                         link: "https://mosq-bit.github.io/Surfing-School/"
-                    },
+                    }
                             
                 ],
                 skills: {
@@ -318,4 +318,5 @@ document.addEventListener('DOMContentLoaded', function() {
             // Автофокус на поле ввода при загрузке
             commandInput.focus();
         });
+
 
