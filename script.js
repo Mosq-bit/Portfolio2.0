@@ -108,7 +108,14 @@ document.addEventListener('DOMContentLoaded', function() {
                         description: "Сайт Школы Серфинга.",
                         tags: ["HTML", "CSS", "JavaScript", "Figma"],
                         link: "https://mosq-bit.github.io/Serfing-School/"
-                    }
+                    },
+                            {
+                        title: "Проект VeraVla edu!",
+                        year: "2025",
+                        description: "Сайт Переквалификации в разработчика искусственного интеллекта",
+                        tags: ["HTML", "CSS", "JavaScript", "Figma"],
+                        link: "https://mosq-bit.github.io/VeraVla/"
+                    },
                             
                 ],
                 skills: {
@@ -318,6 +325,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // Автофокус на поле ввода при загрузке
             commandInput.focus();
         });
+
 
 
 
