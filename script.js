@@ -116,6 +116,13 @@ document.addEventListener('DOMContentLoaded', function() {
                         tags: ["HTML", "CSS", "JavaScript", "Figma"],
                         link: "https://mosq-bit.github.io/VeraVla/"
                     },
+                             {
+                        title: "Проект Gaming Platform",
+                        year: "2025",
+                        description: "Сайт Игровой платформы",
+                        tags: ["HTML", "CSS", "JavaScript", "Figma"],
+                        link: "https://mosq-bit.github.io/Gaming-Platform/"
+                    },
                             
                 ],
                 skills: {
