@@ -123,6 +123,13 @@ document.addEventListener('DOMContentLoaded', function() {
                         tags: ["HTML", "CSS", "JavaScript", "Figma"],
                         link: "https://mosq-bit.github.io/Gaming-Platform/"
                     },
+                            {
+                        title: "Проект Котейка",
+                        year: "2025",
+                        description: "Сайт Уютной гостинице для котов и кошек",
+                        tags: ["HTML", "CSS", "JavaScript", "Figma"],
+                        link: "https://https://mosq-bit.github.io/Coteika/"
+                    },
                             
                 ],
                 skills: {
@@ -332,6 +339,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // Автофокус на поле ввода при загрузке
             commandInput.focus();
         });
+
 
 
 
