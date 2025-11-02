@@ -128,7 +128,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         year: "2025",
                         description: "Сайт Уютной гостинице для котов и кошек",
                         tags: ["HTML", "CSS", "JavaScript", "Figma"],
-                        link: "https://https://mosq-bit.github.io/Coteika/"
+                        link: "https://mosq-bit.github.io/Coteika/"
                     },
                             
                 ],
@@ -339,6 +339,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // Автофокус на поле ввода при загрузке
             commandInput.focus();
         });
+
 
 
 
