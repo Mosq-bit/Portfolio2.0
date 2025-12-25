@@ -137,6 +137,13 @@ document.addEventListener('DOMContentLoaded', function() {
                         tags: ["HTML", "CSS", "JavaScript", "Figma"],
                         link: "https://mosq-bit.github.io/GlassGo/"
                     },
+                             {
+                        title: "Проект Smooth",
+                        year: "2025",
+                        description: "Сайт Электромобиля",
+                        tags: ["HTML", "CSS", "JavaScript", "Figma"],
+                        link: "https://mosq-bit.github.io/Smooth/"
+                    },
                             
                 ],
                 skills: {
@@ -346,6 +353,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // Автофокус на поле ввода при загрузке
             commandInput.focus();
         });
+
 
 
 
