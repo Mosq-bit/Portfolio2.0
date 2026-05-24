@@ -144,6 +144,48 @@ document.addEventListener('DOMContentLoaded', function() {
                         tags: ["HTML", "CSS", "JavaScript", "Figma"],
                         link: "https://mosq-bit.github.io/Smooth/"
                     },
+                            {
+                        title: "Проект SnaBio",
+                        year: "2026",
+                        description: "Интернет магазин химического сырья",
+                        tags: ["HTML", "CSS", "JavaScript"],
+                        link: "https://mosq-bit.github.io/Snabio/"
+                    },
+                             {
+                        title: "Проект ChemistryMarket",
+                        year: "2026",
+                        description: "Интернет магазин химического сырья",
+                        tags: ["HTML", "CSS", "JavaScript", "API"],
+                        link: "https://mosq-bit.github.io/chemistrymarket/"
+                    },
+                              {
+                        title: "Проект MigraPro",
+                        year: "2026",
+                        description: "Сайт Российского Миграциоонного Агенства",
+                        tags: ["HTML", "CSS", "JavaScript", "Figma"],
+                        link: "https://mosq-bit.github.io/MigraPro/"
+                    },
+                            {
+                        title: "Проект Битроид",
+                        year: "2026",
+                        description: "Сайт IT compony",
+                        tags: ["HTML", "CSS", "JavaScript", "Figma"],
+                        link: "https://mosq-bit.github.io/Bitrix/"
+                    },
+                             {
+                        title: "Проект Клуб Четырех коней",
+                        year: "2026",
+                        description: "Сайт Клуба Четырех Коней",
+                        tags: ["HTML", "CSS", "JavaScript", "Figma"],
+                        link: "https://mosq-bit.github.io/four-horse-club/"
+                    },
+                            {
+                        title: "Проект Haval",
+                        year: "2026",
+                        description: "Сайт Официальный диллер Haval",
+                        tags: ["HTML", "CSS", "JavaScript", "Figma"],
+                        link: "https://mosq-bit.github.io/Haval/"
+                    },
                             
                 ],
                 skills: {
