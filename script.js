@@ -186,6 +186,13 @@ document.addEventListener('DOMContentLoaded', function() {
                         tags: ["HTML", "CSS", "JavaScript", "Figma"],
                         link: "https://mosq-bit.github.io/Haval/"
                     },
+                            {
+                        title: "Проект ЭнергоСила",
+                        year: "2026",
+                        description: "Сайт Энергитической компании",
+                        tags: ["HTML", "CSS", "JavaScript"],
+                        link: "https://mosq-bit.github.io/EnergoSila/"
+                    },
                             
                 ],
                 skills: {
