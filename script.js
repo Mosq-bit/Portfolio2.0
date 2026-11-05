@@ -193,6 +193,13 @@ document.addEventListener('DOMContentLoaded', function() {
                         tags: ["HTML", "CSS", "JavaScript"],
                         link: "https://mosq-bit.github.io/EnergoSila/"
                     },
+                              {
+                        title: "Проект Транспортная Компания",
+                        year: "2026",
+                        description: "Сайт Транспортной компании",
+                        tags: ["HTML", "CSS", "JavaScript", "Figma"],
+                        link: "https://mosq-bit.github.io/transportCompany/"
+                    },
                             
                 ],
                 skills: {
